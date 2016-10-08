@@ -1,5 +1,5 @@
 package main
-/*Comment*/
+/*Comment Test*/
 import "fmt"
 
 func main() {
